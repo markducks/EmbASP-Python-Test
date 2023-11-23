@@ -1,5 +1,5 @@
 [project]
-name = "embasp-python"
+name = "embasp-python-test"
 version = "8.0.0"
 description = "EmbASP is a framework for the integration of Logic Programming in external systems"
 readme = "README.md"
